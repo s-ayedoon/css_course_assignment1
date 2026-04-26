@@ -1,0 +1,47 @@
+body {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 135%;
+  background-color: #F6EBC1;
+}
+
+header {
+    background-color: #F6EBC1;
+    /* to center the picture in the home page */
+    justify-content: center;
+    text-align: center;
+}
+
+nav {
+    background-color: #D4E1F2;
+    text-align: center;
+}
+
+main {
+    background-color: #DFDFE1;
+    font-size: 22px;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #0a4b78;
+}
+
+
+p {
+    line-height: 35px;
+    /* text-align: justify; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+}
+
+footer {
+    background-color: #D4E1F2;
+    font-size: 16px;
+    text-align: center;
+}
